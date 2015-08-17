@@ -1,2 +1,2 @@
 # C-plus-plus
-C++ projects while taking intro to C++ course.
+These are projects I worked on while taking intro to C++ course.
